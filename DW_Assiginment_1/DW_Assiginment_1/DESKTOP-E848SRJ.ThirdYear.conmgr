@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-E848SRJ.ThirdYear"
+  DTS:DTSID="{B1AB3457-0790-4C7C-B0D1-AB1A04E0318D}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-E848SRJ;Initial Catalog=ThirdYear;Provider=SQLOLEDB.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-DW_Assiginment_1-{B1AB3457-0790-4C7C-B0D1-AB1A04E0318D}DESKTOP-E848SRJ.ThirdYear;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
